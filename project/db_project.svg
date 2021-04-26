@@ -8,16 +8,16 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="811"
+   width="876.876953125"
    height="435"
-   id="svg780"
+   id="svg876"
    sodipodi:docname="db_project.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   inkscape:export-filename="/home/leonardo/workspace/db_project/db_project.png"
+   inkscape:export-filename="/home/leonardo/workspace/db_learning_project/project/db_project.png"
    inkscape:export-xdpi="100"
-   inkscape:export-ydpi="100">
+   inkscape:export-ydpi="100"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
-     id="metadata784">
+     id="metadata880">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -39,19 +39,19 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
-     id="namedview782"
+     id="namedview878"
      showgrid="false"
-     inkscape:zoom="1.1947666"
-     inkscape:cx="411.50668"
-     inkscape:cy="221.05463"
+     inkscape:zoom="1.6896552"
+     inkscape:cx="438.43848"
+     inkscape:cy="217.5"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg780" />
+     inkscape:current-layer="svg876" />
   <defs
      id="defs2" />
   <g
-     id="g778">
+     id="g874">
     <text
        fill="#eeeeee"
        stroke="none"
@@ -1159,7 +1159,7 @@
            text-decoration="none"
            x="981"
            y="463"
-           id="text252">U</text>
+           id="text252" />
       </g>
     </g>
     <g
@@ -1181,7 +1181,7 @@
            text-decoration="none"
            x="1009.05908203125"
            y="463"
-           id="text260">email</text>
+           id="text260">sexo</text>
       </g>
     </g>
     <g
@@ -1203,7 +1203,7 @@
            text-decoration="none"
            x="1071.79541015625"
            y="463"
-           id="text268">VARCHAR(30)</text>
+           id="text268">ENUM('M' , 'F')</text>
       </g>
     </g>
     <g
@@ -1269,7 +1269,7 @@
            text-decoration="none"
            x="1009.05908203125"
            y="478"
-           id="text292">cpf</text>
+           id="text292">email</text>
       </g>
     </g>
     <g
@@ -1291,7 +1291,7 @@
            text-decoration="none"
            x="1071.79541015625"
            y="478"
-           id="text300">VARCHAR(15)</text>
+           id="text300">VARCHAR(30)</text>
       </g>
     </g>
     <g
@@ -1318,68 +1318,69 @@
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
-       id="g316">
-      <rect
-         fill="#C0C0C0"
-         stroke="none"
-         x="1287"
-         y="663"
-         width="207"
-         height="151"
-         opacity="0.2"
-         id="rect314" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
        id="g320">
-      <rect
-         fill="#ffffff"
-         stroke="none"
-         x="1280"
-         y="656"
-         width="207"
-         height="151"
-         id="rect318" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
-       id="g324">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1280 656 L 1487 656 L 1487 807 L 1280 807 L 1280 656 Z Z"
-         stroke-miterlimit="10"
-         id="path322" />
+      <g
+         id="g318">
+        <path
+           fill="none"
+           stroke="none"
+           id="path314" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="981"
+           y="493"
+           id="text316">U</text>
+      </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g328">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1280 679 L 1487 679"
-         stroke-miterlimit="10"
-         id="path326" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
-       id="g332">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1307.3291015625 679 L 1307.3291015625 807"
-         stroke-miterlimit="10"
-         id="path330" />
+      <g
+         id="g326">
+        <path
+           fill="none"
+           stroke="none"
+           id="path322" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1009.05908203125"
+           y="493"
+           id="text324">cpf</text>
+      </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g336">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1377.29541015625 679 L 1377.29541015625 807"
-         stroke-miterlimit="10"
-         id="path334" />
+      <g
+         id="g334">
+        <path
+           fill="none"
+           stroke="none"
+           id="path330" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1071.79541015625"
+           y="493"
+           id="text332">VARCHAR(15)</text>
+      </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
@@ -1396,78 +1397,77 @@
            font-family="Arial"
            font-size="13px"
            font-style="normal"
-           font-weight="bold"
+           font-weight="normal"
            text-decoration="none"
-           x="1358.925048828125"
-           y="673.5"
-           id="text340">Telefone</text>
+           x="981"
+           y="492.5"
+           id="text340" />
       </g>
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g348">
+      <rect
+         fill="#C0C0C0"
+         stroke="none"
+         x="1287"
+         y="663"
+         width="272.876953125"
+         height="151"
+         opacity="0.2"
+         id="rect346" />
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g352">
-      <g
-         id="g350">
-        <path
-           fill="none"
-           stroke="none"
-           id="path346" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="1285"
-           y="697"
-           id="text348">U</text>
-      </g>
+      <rect
+         fill="#ffffff"
+         stroke="none"
+         x="1280"
+         y="656"
+         width="272.876953125"
+         height="151"
+         id="rect350" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g356">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1280 656 L 1552.876953125 656 L 1552.876953125 807 L 1280 807 L 1280 656 Z Z"
+         stroke-miterlimit="10"
+         id="path354" />
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g360">
-      <g
-         id="g358">
-        <path
-           fill="none"
-           stroke="none"
-           id="path354" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="1312.3291015625"
-           y="697"
-           id="text356">numero</text>
-      </g>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1280 679 L 1552.876953125 679"
+         stroke-miterlimit="10"
+         id="path358" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g364">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1308.05908203125 679 L 1308.05908203125 807"
+         stroke-miterlimit="10"
+         id="path362" />
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g368">
-      <g
-         id="g366">
-        <path
-           fill="none"
-           stroke="none"
-           id="path362" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="1382.29541015625"
-           y="697"
-           id="text364">VARCHAR(15)</text>
-      </g>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1379.45361328125 679 L 1379.45361328125 807"
+         stroke-miterlimit="10"
+         id="path366" />
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
@@ -1484,11 +1484,11 @@
            font-family="Arial"
            font-size="13px"
            font-style="normal"
-           font-weight="normal"
+           font-weight="bold"
            text-decoration="none"
-           x="1285"
-           y="696.5"
-           id="text372" />
+           x="1391.863525390625"
+           y="673.5"
+           id="text372">Telefone</text>
       </g>
     </g>
     <g
@@ -1509,8 +1509,8 @@
            font-weight="normal"
            text-decoration="none"
            x="1285"
-           y="712"
-           id="text380" />
+           y="697"
+           id="text380">PK</text>
       </g>
     </g>
     <g
@@ -1530,9 +1530,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="1312.3291015625"
-           y="712"
-           id="text388">tipo</text>
+           x="1313.05908203125"
+           y="697"
+           id="text388">idtelefone</text>
       </g>
     </g>
     <g
@@ -1552,9 +1552,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="1382.29541015625"
-           y="712"
-           id="text396">CHAR(3)</text>
+           x="1384.45361328125"
+           y="697"
+           id="text396">INTEGER</text>
       </g>
     </g>
     <g
@@ -1575,7 +1575,7 @@
            font-weight="normal"
            text-decoration="none"
            x="1285"
-           y="711.5"
+           y="696.5"
            id="text404" />
       </g>
     </g>
@@ -1597,8 +1597,8 @@
            font-weight="normal"
            text-decoration="none"
            x="1285"
-           y="727"
-           id="text412">FK</text>
+           y="712"
+           id="text412">U</text>
       </g>
     </g>
     <g
@@ -1618,9 +1618,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="1312.3291015625"
-           y="727"
-           id="text420">id_cliente</text>
+           x="1313.05908203125"
+           y="712"
+           id="text420">numero</text>
       </g>
     </g>
     <g
@@ -1640,9 +1640,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="1382.29541015625"
-           y="727"
-           id="text428">INTEGER</text>
+           x="1384.45361328125"
+           y="712"
+           id="text428">VARCHAR(15)</text>
       </g>
     </g>
     <g
@@ -1663,74 +1663,75 @@
            font-weight="normal"
            text-decoration="none"
            x="1285"
-           y="726.5"
+           y="711.5"
            id="text436" />
       </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
-       id="g444">
-      <rect
-         fill="#C0C0C0"
-         stroke="none"
-         x="703"
-         y="663"
-         width="217.30322265625"
-         height="135"
-         opacity="0.2"
-         id="rect442" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
        id="g448">
-      <rect
-         fill="#ffffff"
-         stroke="none"
-         x="696"
-         y="656"
-         width="217.30322265625"
-         height="135"
-         id="rect446" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
-       id="g452">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 696 656 L 913.30322265625 656 L 913.30322265625 791 L 696 791 L 696 656 Z Z"
-         stroke-miterlimit="10"
-         id="path450" />
+      <g
+         id="g446">
+        <path
+           fill="none"
+           stroke="none"
+           id="path442" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1285"
+           y="727"
+           id="text444" />
+      </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g456">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 696 679 L 913.30322265625 679"
-         stroke-miterlimit="10"
-         id="path454" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
-       id="g460">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 723.3291015625 679 L 723.3291015625 791"
-         stroke-miterlimit="10"
-         id="path458" />
+      <g
+         id="g454">
+        <path
+           fill="none"
+           stroke="none"
+           id="path450" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1313.05908203125"
+           y="727"
+           id="text452">tipo</text>
+      </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g464">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 817.14990234375 679 L 817.14990234375 791"
-         stroke-miterlimit="10"
-         id="path462" />
+      <g
+         id="g462">
+        <path
+           fill="none"
+           stroke="none"
+           id="path458" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1384.45361328125"
+           y="727"
+           id="text460">ENUM('RES','COM','CEL')</text>
+      </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
@@ -1747,11 +1748,11 @@
            font-family="Arial"
            font-size="13px"
            font-style="normal"
-           font-weight="bold"
+           font-weight="normal"
            text-decoration="none"
-           x="777.547119140625"
-           y="673.5"
-           id="text468">endereco</text>
+           x="1285"
+           y="726.5"
+           id="text468" />
       </g>
     </g>
     <g
@@ -1771,9 +1772,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="701"
-           y="697"
-           id="text476" />
+           x="1285"
+           y="742"
+           id="text476">FK</text>
       </g>
     </g>
     <g
@@ -1793,9 +1794,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="728.3291015625"
-           y="697"
-           id="text484">rua</text>
+           x="1313.05908203125"
+           y="742"
+           id="text484">id_cliente</text>
       </g>
     </g>
     <g
@@ -1815,9 +1816,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="822.14990234375"
-           y="697"
-           id="text492">VARCHAR</text>
+           x="1384.45361328125"
+           y="742"
+           id="text492">INTEGER</text>
       </g>
     </g>
     <g
@@ -1837,76 +1838,75 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="701"
-           y="696.5"
+           x="1285"
+           y="741.5"
            id="text500" />
       </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
+       id="g508">
+      <rect
+         fill="#C0C0C0"
+         stroke="none"
+         x="703"
+         y="663"
+         width="230.30322265625"
+         height="150"
+         opacity="0.2"
+         id="rect506" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
        id="g512">
-      <g
-         id="g510">
-        <path
-           fill="none"
-           stroke="none"
-           id="path506" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="701"
-           y="712"
-           id="text508" />
-      </g>
+      <rect
+         fill="#ffffff"
+         stroke="none"
+         x="696"
+         y="656"
+         width="230.30322265625"
+         height="150"
+         id="rect510" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g516">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 696 656 L 926.30322265625 656 L 926.30322265625 806 L 696 806 L 696 656 Z Z"
+         stroke-miterlimit="10"
+         id="path514" />
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g520">
-      <g
-         id="g518">
-        <path
-           fill="none"
-           stroke="none"
-           id="path514" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="728.3291015625"
-           y="712"
-           id="text516">numero_casa</text>
-      </g>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 696 679 L 926.30322265625 679"
+         stroke-miterlimit="10"
+         id="path518" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g524">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 736.3291015625 679 L 736.3291015625 806"
+         stroke-miterlimit="10"
+         id="path522" />
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g528">
-      <g
-         id="g526">
-        <path
-           fill="none"
-           stroke="none"
-           id="path522" />
-        <text
-           fill="#000000"
-           stroke="none"
-           font-family="Arial"
-           font-size="13px"
-           font-style="normal"
-           font-weight="normal"
-           text-decoration="none"
-           x="822.14990234375"
-           y="712"
-           id="text524">VARCHAR(6)</text>
-      </g>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 830.14990234375 679 L 830.14990234375 806"
+         stroke-miterlimit="10"
+         id="path526" />
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
@@ -1923,11 +1923,11 @@
            font-family="Arial"
            font-size="13px"
            font-style="normal"
-           font-weight="normal"
+           font-weight="bold"
            text-decoration="none"
-           x="701"
-           y="711.5"
-           id="text532" />
+           x="784.047119140625"
+           y="673.5"
+           id="text532">endereco</text>
       </g>
     </g>
     <g
@@ -1948,8 +1948,8 @@
            font-weight="normal"
            text-decoration="none"
            x="701"
-           y="727"
-           id="text540" />
+           y="697"
+           id="text540">PK</text>
       </g>
     </g>
     <g
@@ -1969,9 +1969,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="728.3291015625"
-           y="727"
-           id="text548">bairro</text>
+           x="741.3291015625"
+           y="697"
+           id="text548">idendereco</text>
       </g>
     </g>
     <g
@@ -1991,9 +1991,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="822.14990234375"
-           y="727"
-           id="text556">VARCHAR(20)</text>
+           x="835.14990234375"
+           y="697"
+           id="text556">INTEGER</text>
       </g>
     </g>
     <g
@@ -2014,7 +2014,7 @@
            font-weight="normal"
            text-decoration="none"
            x="701"
-           y="726.5"
+           y="696.5"
            id="text564" />
       </g>
     </g>
@@ -2036,7 +2036,7 @@
            font-weight="normal"
            text-decoration="none"
            x="701"
-           y="742"
+           y="712"
            id="text572" />
       </g>
     </g>
@@ -2057,9 +2057,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="728.3291015625"
-           y="742"
-           id="text580">cidade</text>
+           x="741.3291015625"
+           y="712"
+           id="text580">rua</text>
       </g>
     </g>
     <g
@@ -2079,9 +2079,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="822.14990234375"
-           y="742"
-           id="text588">VARCHAR(20)</text>
+           x="835.14990234375"
+           y="712"
+           id="text588">VARCHAR(30)</text>
       </g>
     </g>
     <g
@@ -2102,7 +2102,7 @@
            font-weight="normal"
            text-decoration="none"
            x="701"
-           y="741.5"
+           y="711.5"
            id="text596" />
       </g>
     </g>
@@ -2124,7 +2124,7 @@
            font-weight="normal"
            text-decoration="none"
            x="701"
-           y="757"
+           y="727"
            id="text604" />
       </g>
     </g>
@@ -2145,9 +2145,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="728.3291015625"
-           y="757"
-           id="text612">estado</text>
+           x="741.3291015625"
+           y="727"
+           id="text612">numero_casa</text>
       </g>
     </g>
     <g
@@ -2167,9 +2167,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="822.14990234375"
-           y="757"
-           id="text620">CHAR(2)</text>
+           x="835.14990234375"
+           y="727"
+           id="text620">VARCHAR(6)</text>
       </g>
     </g>
     <g
@@ -2190,7 +2190,7 @@
            font-weight="normal"
            text-decoration="none"
            x="701"
-           y="756.5"
+           y="726.5"
            id="text628" />
       </g>
     </g>
@@ -2212,7 +2212,7 @@
            font-weight="normal"
            text-decoration="none"
            x="701"
-           y="772"
+           y="742"
            id="text636" />
       </g>
     </g>
@@ -2233,9 +2233,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="728.3291015625"
-           y="772"
-           id="text644">cep</text>
+           x="741.3291015625"
+           y="742"
+           id="text644">bairro</text>
       </g>
     </g>
     <g
@@ -2255,9 +2255,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="822.14990234375"
-           y="772"
-           id="text652">VARCHAR(9)</text>
+           x="835.14990234375"
+           y="742"
+           id="text652">VARCHAR(20)</text>
       </g>
     </g>
     <g
@@ -2278,7 +2278,7 @@
            font-weight="normal"
            text-decoration="none"
            x="701"
-           y="771.5"
+           y="741.5"
            id="text660" />
       </g>
     </g>
@@ -2300,8 +2300,8 @@
            font-weight="normal"
            text-decoration="none"
            x="701"
-           y="787"
-           id="text668">FK</text>
+           y="757"
+           id="text668" />
       </g>
     </g>
     <g
@@ -2321,9 +2321,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="728.3291015625"
-           y="787"
-           id="text676">id_cliente</text>
+           x="741.3291015625"
+           y="757"
+           id="text676">cidade</text>
       </g>
     </g>
     <g
@@ -2343,9 +2343,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="822.14990234375"
-           y="787"
-           id="text684" />
+           x="835.14990234375"
+           y="757"
+           id="text684">VARCHAR(20)</text>
       </g>
     </g>
     <g
@@ -2366,69 +2366,19 @@
            font-weight="normal"
            text-decoration="none"
            x="701"
-           y="786.5"
+           y="756.5"
            id="text692" />
       </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
-       id="g700">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1032 560 L 1032 728 M 1032 728 A 8 8 0 0 1 1024 736 L 913 736"
-         stroke-miterlimit="10"
-         id="path698" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
        id="g704">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 920 729 L 920 743"
-         stroke-miterlimit="10"
-         id="path702" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
-       id="g708">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 927 729 L 927 743"
-         stroke-miterlimit="10"
-         id="path706" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
-       id="g712">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1039 567 L 1025 567"
-         stroke-miterlimit="10"
-         id="path710" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
-       id="g716">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1039 574 L 1025 574"
-         stroke-miterlimit="10"
-         id="path714" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
-       id="g724">
       <g
-         id="g722">
+         id="g702">
         <path
            fill="none"
            stroke="none"
-           id="path718" />
+           id="path698" />
         <text
            fill="#000000"
            stroke="none"
@@ -2437,20 +2387,20 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="1046.5"
-           y="591.5"
-           id="text720" />
+           x="701"
+           y="772"
+           id="text700" />
       </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
-       id="g732">
+       id="g712">
       <g
-         id="g730">
+         id="g710">
         <path
            fill="none"
            stroke="none"
-           id="path726" />
+           id="path706" />
         <text
            fill="#000000"
            stroke="none"
@@ -2459,79 +2409,142 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="937.5"
-           y="756.5"
-           id="text728" />
+           x="741.3291015625"
+           y="772"
+           id="text708">estado</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g720">
+      <g
+         id="g718">
+        <path
+           fill="none"
+           stroke="none"
+           id="path714" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="835.14990234375"
+           y="772"
+           id="text716">CHAR(2)</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g728">
+      <g
+         id="g726">
+        <path
+           fill="none"
+           stroke="none"
+           id="path722" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="701"
+           y="771.5"
+           id="text724" />
       </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g736">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1128 560 L 1128 728 M 1128 728 A 8 8 0 0 0 1136 736 L 1280 736"
-         stroke-miterlimit="10"
-         id="path734" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
-       id="g740">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1266 736 L 1280 743"
-         stroke-miterlimit="10"
-         id="path738" />
+      <g
+         id="g734">
+        <path
+           fill="none"
+           stroke="none"
+           id="path730" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="701"
+           y="787"
+           id="text732" />
+      </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g744">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1266 736 L 1280 729"
-         stroke-miterlimit="10"
-         id="path742" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
-       id="g748">
-      <path
-         fill="#FFFFFF"
-         stroke="none"
-         d="M 1251 736 C 1251 732.1340064 1254.1340064 729 1258 729 C 1261.8659936 729 1265 732.1340064 1265 736 C 1265 739.8659936 1261.8659936 743 1258 743 C 1254.1340064 743 1251 739.8659936 1251 736 Z"
-         id="path746" />
+      <g
+         id="g742">
+        <path
+           fill="none"
+           stroke="none"
+           id="path738" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="741.3291015625"
+           y="787"
+           id="text740">cep</text>
+      </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g752">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1251 736 C 1251 732.1340064 1254.1340064 729 1258 729 C 1261.8659936 729 1265 732.1340064 1265 736 C 1265 739.8659936 1261.8659936 743 1258 743 C 1254.1340064 743 1251 739.8659936 1251 736 Z"
-         stroke-miterlimit="10"
-         id="path750" />
-    </g>
-    <g
-       transform="translate(-686,-382) scale(1,1)"
-       id="g756">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1135 567 L 1121 567"
-         stroke-miterlimit="10"
-         id="path754" />
+      <g
+         id="g750">
+        <path
+           fill="none"
+           stroke="none"
+           id="path746" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="835.14990234375"
+           y="787"
+           id="text748">VARCHAR(9)</text>
+      </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
        id="g760">
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 1135 574 L 1121 574"
-         stroke-miterlimit="10"
-         id="path758" />
+      <g
+         id="g758">
+        <path
+           fill="none"
+           stroke="none"
+           id="path754" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="701"
+           y="786.5"
+           id="text756" />
+      </g>
     </g>
     <g
        transform="translate(-686,-382) scale(1,1)"
@@ -2550,9 +2563,9 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="1142.5"
-           y="591.5"
-           id="text764" />
+           x="701"
+           y="802"
+           id="text764">FK,U</text>
       </g>
     </g>
     <g
@@ -2572,9 +2585,260 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
+           x="741.3291015625"
+           y="802"
+           id="text772">id_cliente</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g784">
+      <g
+         id="g782">
+        <path
+           fill="none"
+           stroke="none"
+           id="path778" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="835.14990234375"
+           y="802"
+           id="text780">INTEGER</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g792">
+      <g
+         id="g790">
+        <path
+           fill="none"
+           stroke="none"
+           id="path786" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="701"
+           y="801.5"
+           id="text788" />
+      </g>
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g796">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1032 560 L 1032 728 M 1032 728 A 8 8 0 0 1 1024 736 L 926 736"
+         stroke-miterlimit="10"
+         id="path794" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g800">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 933 729 L 933 743"
+         stroke-miterlimit="10"
+         id="path798" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g804">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 940 729 L 940 743"
+         stroke-miterlimit="10"
+         id="path802" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g808">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1039 567 L 1025 567"
+         stroke-miterlimit="10"
+         id="path806" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g812">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1039 574 L 1025 574"
+         stroke-miterlimit="10"
+         id="path810" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g820">
+      <g
+         id="g818">
+        <path
+           fill="none"
+           stroke="none"
+           id="path814" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1046.5"
+           y="591.5"
+           id="text816" />
+      </g>
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g828">
+      <g
+         id="g826">
+        <path
+           fill="none"
+           stroke="none"
+           id="path822" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="950.5"
+           y="756.5"
+           id="text824" />
+      </g>
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g832">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1128 560 L 1128 728 M 1128 728 A 8 8 0 0 0 1136 736 L 1280 736"
+         stroke-miterlimit="10"
+         id="path830" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g836">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1266 736 L 1280 743"
+         stroke-miterlimit="10"
+         id="path834" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g840">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1266 736 L 1280 729"
+         stroke-miterlimit="10"
+         id="path838" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g844">
+      <path
+         fill="#FFFFFF"
+         stroke="none"
+         d="M 1251 736 C 1251 732.1340064 1254.1340064 729 1258 729 C 1261.8659936 729 1265 732.1340064 1265 736 C 1265 739.8659936 1261.8659936 743 1258 743 C 1254.1340064 743 1251 739.8659936 1251 736 Z"
+         id="path842" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g848">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1251 736 C 1251 732.1340064 1254.1340064 729 1258 729 C 1261.8659936 729 1265 732.1340064 1265 736 C 1265 739.8659936 1261.8659936 743 1258 743 C 1254.1340064 743 1251 739.8659936 1251 736 Z"
+         stroke-miterlimit="10"
+         id="path846" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g852">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1135 567 L 1121 567"
+         stroke-miterlimit="10"
+         id="path850" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g856">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1135 574 L 1121 574"
+         stroke-miterlimit="10"
+         id="path854" />
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g864">
+      <g
+         id="g862">
+        <path
+           fill="none"
+           stroke="none"
+           id="path858" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
+           x="1142.5"
+           y="591.5"
+           id="text860" />
+      </g>
+    </g>
+    <g
+       transform="translate(-686,-382) scale(1,1)"
+       id="g872">
+      <g
+         id="g870">
+        <path
+           fill="none"
+           stroke="none"
+           id="path866" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="none"
            x="1253.5"
            y="727.5"
-           id="text772" />
+           id="text868" />
       </g>
     </g>
   </g>
